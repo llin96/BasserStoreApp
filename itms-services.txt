@@ -1,2 +1,2 @@
-¿ª·¢²âÊÔ°æ
+å¼€å‘æµ‹è¯•ç‰ˆ
 itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/llin96/BasserStoreApp/master/BasserStoreApp_dev.plist
