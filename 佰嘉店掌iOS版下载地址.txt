@@ -1,0 +1,7 @@
+佰嘉店掌App
+
+开发测试版
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/llin96/BasserStoreApp/master/BasserStoreApp_dev.plist
+
+生产版
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/llin96/BasserStoreApp/master/BasserStoreApp_real.plist
